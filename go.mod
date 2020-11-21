@@ -15,6 +15,7 @@ require (
 	github.com/davecgh/go-spew v1.1.1
 	github.com/go-kit/kit v0.10.0
 	github.com/go-ole/go-ole v1.2.4 // indirect
+	github.com/go-redis/redis/v8 v8.4.0
 	github.com/gogo/googleapis v1.3.0 // indirect
 	github.com/gogo/protobuf v1.3.1
 	github.com/golang/groupcache v0.0.0-20200121045136-8c9f03a8e57e
@@ -29,8 +30,6 @@ require (
 	github.com/leoluk/perflib_exporter v0.1.0
 	github.com/mattn/go-colorable v0.1.7 // indirect
 	github.com/mitchellh/mapstructure v1.3.2 // indirect
-	github.com/onsi/ginkgo v1.14.1 // indirect
-	github.com/onsi/gomega v1.10.2 // indirect
 	github.com/openzipkin/zipkin-go v0.2.5
 	github.com/orijtech/prometheus-go-metrics-exporter v0.0.6
 	github.com/pelletier/go-toml v1.8.0 // indirect
